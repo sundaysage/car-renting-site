@@ -305,38 +305,12 @@ footer {
     .eachCar {
         margin: 20px;
         width: 40%;
-        box-shadow: 0px 0px 15px 0px;
+        box-shadow: 0px 0px 3px 0px;
         border-radius: 10px;
     }
 
     .yellowcar {
         width: 100%;
-    }
-    
-    .cars-Carrolcell-GenaralDiv :hover{
-        justify-content: center;
-        overflow-x: hidden;
-        overflow-y: hidden;
-        display: flex;
-        flex-wrap: wrap;
-        align-content: center;
-        text-align: center;
-        animation: popup  2s ease-in 1;
-    }
-    @keyframes popup{
-        0%{
-            transform: none;
-        }
-        30%{
-            transform: rotateY(3deg);
-        }
-        50%{
-            transform: rotateZ(7deg);
-        }
-        100%{
-            transform: none;
-        }
-
     }
     
 .notification{
@@ -347,5 +321,6 @@ footer {
     margin-top: -300px;
     margin-left: -120px;
 }
+
 
 }
