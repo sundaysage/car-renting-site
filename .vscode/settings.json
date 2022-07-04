@@ -3,5 +3,10 @@
         "Avetador",
         "Avetandor",
         "supercar"
+    ],
+    "liveServer.settings.port": 5001,
+    "cSpell.ignoreWords": [
+        "notificate",
+        "notificationimgs"
     ]
 }
